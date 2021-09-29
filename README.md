@@ -1,0 +1,2 @@
+# iCoin
+iCoin Blockchain Platform
